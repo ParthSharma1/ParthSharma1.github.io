@@ -90,7 +90,7 @@ body {
   }
   
   .profile-usermenu ul li a:hover {
-    background-color: #fafcfd;
+    background-color: #f6f9fb;
     color: #5b9bd1;
   }
   
@@ -190,7 +190,7 @@ body {
 .box .icon .fa {
     font-size: 4em;
     line-height:100px;
-    color: #e0e0e0;
+    color: #71caf7;
 }
 .box:hover .icon {
     transform:scale(0);
