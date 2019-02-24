@@ -4,7 +4,7 @@ html {
 
 body {
     background-image: url("../images/back2.jpg");
-    background-repeat: repeat-x|repeat-y;
+    
     background-attachment: fixed;
   }
 
